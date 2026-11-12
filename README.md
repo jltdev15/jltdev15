@@ -1,6 +1,6 @@
 # Hi, I'm John Lerry Taruc 👋
 
-**Software Developer · Web & Mobile Application Developer · ICT Educator**  
+Software Developer · Web & Mobile Application Developer · ICT Educator
 Philippines 🇵🇭
 
 I build practical software that helps people and businesses work better — from web platforms and mobile apps to desktop tools and business systems. I enjoy turning real-world problems into clean, useful, and maintainable applications.
